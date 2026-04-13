@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.spec
+*.exe
+
+# Virtual environments
+venv*/
+gold-predictor-env/
+*.txt
+!requirements.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output predictions
+output/
+
+# Word docs
+*.docx
