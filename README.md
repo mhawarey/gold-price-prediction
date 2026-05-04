@@ -1,5 +1,7 @@
 # Gold Price Prediction System
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An ensemble machine learning platform for gold price forecasting, combining statistical models (ARIMA, GARCH, Exponential Smoothing), ML models (XGBoost, Random Forest, SVR, LSTM), and meta-learning ensemble methods.
 
 ## Architecture
@@ -61,6 +63,7 @@ Load gold price data, select models, configure sliding window parameters, and ge
 ## Author
 
 **Dr. Mosab Hawarey**
+>
 PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
 
 - GitHub: https://github.com/mhawarey
@@ -69,4 +72,4 @@ PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MB
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details.
+MIT License
